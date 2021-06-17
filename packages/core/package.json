@@ -1,6 +1,6 @@
 {
   "name": "@feie-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "feie-cli-dev core",
   "author": "wenxingjie <26127631+haishangfeie@users.noreply.github.com>",
   "homepage": "",
@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "devDependencies": {
-    "@feie-cli-dev/utils": "~1.0.0"
+    "@feie-cli-dev/utils": "^1.0.1-alpha.0"
   },
   "files": [
     "lib"

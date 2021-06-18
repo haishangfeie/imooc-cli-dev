@@ -18,5 +18,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from core\""
+  },
+  "gitHead": "57b549a7f66ebaa5b73bdf50d2e76c2db0511cfb",
+  "publishConfig": {
+    "access": "public"
   }
 }
